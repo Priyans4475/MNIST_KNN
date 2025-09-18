@@ -7,7 +7,7 @@ ML algorithm applied: k-Nearest Neighbors (KNN)
 
 ## 📂 Files
 - `mnist_knn.py` → KNN implementation
-- `report.pdf` → Report with code and screenshots
+- `Reports.pdf` → Report with code and screenshots
 
 ## 🚀 How to Run
 ```bash
